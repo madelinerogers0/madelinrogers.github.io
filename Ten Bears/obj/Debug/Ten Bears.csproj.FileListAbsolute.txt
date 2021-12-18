@@ -1,0 +1,7 @@
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\obj\Debug\Ten Bears.csproj.AssemblyReference.cache
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\obj\Debug\Ten Bears.csproj.CoreCompileInputs.cache
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\bin\Debug\Ten Bears.exe.config
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\bin\Debug\Ten Bears.exe
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\bin\Debug\Ten Bears.pdb
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\obj\Debug\Ten Bears.exe
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\Ten Bears\obj\Debug\Ten Bears.pdb
