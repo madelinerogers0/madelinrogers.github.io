@@ -1,0 +1,7 @@
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\obj\Debug\DogonPotVariation.csproj.AssemblyReference.cache
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\obj\Debug\DogonPotVariation.csproj.CoreCompileInputs.cache
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\bin\Debug\DogonPotVariation.exe.config
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\bin\Debug\DogonPotVariation.exe
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\bin\Debug\DogonPotVariation.pdb
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\obj\Debug\DogonPotVariation.exe
+C:\Users\madro\Desktop\ITP fall 2021\practice codes\DogonPotVariation\DogonPotVariation\obj\Debug\DogonPotVariation.pdb
